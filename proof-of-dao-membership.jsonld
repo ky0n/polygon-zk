@@ -6,13 +6,13 @@
       "id": "@id",
       "type": "@type",
       "ProofOfDaoLongevity": {
-        "@id": "tbd",
+        "@id": "https://raw.githubusercontent.com/ky0n/polygon-zk/main/proof-of-dao-membership.jsonld?token=GHSAT0AAAAAAB35TYWCI35CIZZTG6U6QXJUZADOANQ",
         "@context": {
           "@version": 1.1,
           "@protected": true,
           "id": "@id",
           "type": "@type",
-          "vocab": "tbd",
+          "vocab": "https://github.com/ky0n/polygon-zk/blob/main/proof-of-dao-membership.md",
           "xsd": "http://www.w3.org/2001/XMLSchema#",
           "entryDate": {
             "@id": "vocab:entryDate",
