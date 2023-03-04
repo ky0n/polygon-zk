@@ -1,0 +1,29 @@
+{
+  "@context": [
+    {
+      "@version": 1.1,
+      "@protected": true,
+      "id": "@id",
+      "type": "@type",
+      "ProofOfDaoLongevity": {
+        "@id": "tbd",
+        "@context": {
+          "@version": 1.1,
+          "@protected": true,
+          "id": "@id",
+          "type": "@type",
+          "vocab": "tbd",
+          "xsd": "http://www.w3.org/2001/XMLSchema#",
+          "entryDate": {
+            "@id": "vocab:entryDate",
+            "@type": "xsd:integer"
+          },
+          "name": {
+            "@id": "vocab:firstname",
+            "@type": "xsd:string"
+          }
+        }
+      }
+    }
+  ]
+}
