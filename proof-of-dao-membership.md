@@ -1,7 +1,7 @@
-# entry date
+# entry date  
 
-Describe the date when a contributor joined the DAO
+Describe the date when a the member joined swissDAO
 
-# first name
+# first name  
 
-First name of member
+First name of the swissDAO member
