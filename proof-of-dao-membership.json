@@ -4,7 +4,7 @@
     "$metadata": {
       "uris": {
         "jsonLdContext": "https://raw.githubusercontent.com/ky0n/polygon-zk/main/proof-of-dao-membership.jsonld?token=GHSAT0AAAAAAB35TYWCRWW5X5ZKKSGYYS3CZADOF2A",
-        "jsonSchema": "tbd"
+        "jsonSchema": "https://raw.githubusercontent.com/ky0n/polygon-zk/main/proof-of-dao-membership.json?token=GHSAT0AAAAAAB35TYWCSIEN2C3KJKOPFA6KZADOHLQ"
       }
     },
     "required": [
