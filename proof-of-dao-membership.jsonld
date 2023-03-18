@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "ProofOfDaoMembership": {
-        "@id": "https://raw.githubusercontent.com/ky0n/polygon-zk/main/proof-of-dao-membership.jsonld?token=GHSAT0AAAAAAB35TYWCI35CIZZTG6U6QXJUZADOANQ",
+        "@id": "https://raw.githubusercontent.com/ky0n/polygon-zk/main/proof-of-dao-membership.jsonld",
         "@context": {
           "@version": 1.1,
           "@protected": true,
